@@ -27,4 +27,6 @@ pydub
 # UI (optional)
 gradio==4.44.0
 
+# Additionals
 wheel
+ffmpeg
