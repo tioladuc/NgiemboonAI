@@ -5,7 +5,10 @@
 3) install the other stuffs
     pip install -r requirements.txt
 
-
+4) prepare data for text ngiemboon translation
+5) ngiemboon_text repository
+6) use extract_dictionnary.py that produce "languages.csv" for dictionnary of ngiemboon
+7) use extract_new_testament_bible.py that produce "languages_bible.csv" for new testament verset translation with ngiemboon
 
 
 
